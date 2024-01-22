@@ -2,7 +2,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 
-  - [Active Directory Home LAb] (https://github.com/walidsta/ActiveDirectoryLab/tree/main)
+  - Active Directory Home LAb (https://github.com/walidsta/ActiveDirectoryLab/tree/main)
   - [SIEM Tutorial - Azure Sentinel Tutorial Map with Live Cyber Attacks!]([https://github.com/joshmadakor1/Algorithms-Practice](https://youtu.be/nc9DzVj3VR8))
   - [Vulnerability Management with Nessus]([https://github.com/joshmadakor1/Algorithms-Practice](https://youtu.be/nc9DzVj3VR8))
 
