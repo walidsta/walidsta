@@ -16,7 +16,7 @@
 
 -[Cybersecurity & Network Found (1-year Certificate,CSC)](https://i.imgur.com/cdN9kFG.png)
 
-[Comptia Network+](https://i.imgur.com/afVcXMA.png)
+-[Comptia Network+](https://i.imgur.com/afVcXMA.png)
 
 
 
