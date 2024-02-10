@@ -14,9 +14,9 @@
 
 -[Comptia Security+](https://i.imgur.com/CdAdKr8.png).
 
--[Cybersecurity & Network Found (1-year Certificate,CSC)](https://catalog.germanna.edu/preview_program.php?catoid=12&poid=1085&hl=Certificate+&returnto=search)
+-[Cybersecurity & Network Found (1-year Certificate,CSC)](https://i.imgur.com/cdN9kFG.png)
 
--Comptia network+(In Progress)]
+[Comptia Network+](https://i.imgur.com/afVcXMA.png)
 
 
 
