@@ -12,7 +12,7 @@
 
 <h2> Certifications</h2>
 
--[Comptia Security+](https://i.imgur.com/CdAdKr8.png).
+-[Comptia Security+](https://i.imgur.com/rP2nrAF.png).
 
 -[Cybersecurity & Network Found (1-year Certificate,CSC)](https://i.imgur.com/cdN9kFG.png)
 
