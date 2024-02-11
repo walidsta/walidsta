@@ -5,6 +5,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+  - [WebLog-Analyzer Splunk](https://github.com/walidsta/WebLog-Analyzer/WebLog-AnalyzerSplunk).
   - [Web Server Security Monitoring with Splunk](https://github.com/walidsta/Web-Server-Security-Monitoring-with-Splunk).
   - [Active Directory Home LAb](https://github.com/walidsta/ActiveDirectoryLab/tree/main).
   - [SIEM Tutorial - Azure Sentinel Tutorial Map with Live Cyber Attacks!](https://github.com/walidsta/SIEM-Tutorial/tree/main)
