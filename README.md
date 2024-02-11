@@ -10,6 +10,7 @@
   - [Active Directory Home LAb](https://github.com/walidsta/ActiveDirectoryLab/tree/main).
   - [SIEM Tutorial - Azure Sentinel Tutorial Map with Live Cyber Attacks!](https://github.com/walidsta/SIEM-Tutorial/tree/main)
   - [Vulnerability Management with Nessus](https://github.com/walidsta/Vulnerability-Management-with-Nessus/tree/main)
+  - [Microsoft Windows Defender and Firewall](https://github.com/walidsta/Microsoft-Windows-Defender-and-Firewall)
 
 <h2> Certifications</h2>
 
