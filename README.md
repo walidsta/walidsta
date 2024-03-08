@@ -5,6 +5,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+  - [SOC Automation](https://github.com/walidsta/SOC-Automation).
   - [NETWORK TRAFFIC ANALYSIS](https://github.com/walidsta/Network-Traffic-Analysis). 
   - [WebLog-Analyzer Splunk](https://github.com/walidsta/WebLog-Analyzer).
   - [Web Server Security Monitoring with Splunk](https://github.com/walidsta/Web-Server-Security-Monitoring-with-Splunk).
